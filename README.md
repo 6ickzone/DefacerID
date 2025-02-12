@@ -38,7 +38,7 @@ chmod +x defacerid.py
 ## PHP Usage
 
 ```bash
-cd ../php
+cd php
 chmod +x defacerid.php
 ./defacerid.php urls.txt
 
