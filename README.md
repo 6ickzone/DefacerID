@@ -1,9 +1,9 @@
-# 0x6ick — Web
+# 0x6ick — gabut
 
 Converted from CLI project: github.com/defacerID
 
 **Status:** Web-based port (main branch)
-
+**File:** `php/defacerweb.php`  
 **Contact:** t.me/yungx6ick
 
 ## Project Structure
