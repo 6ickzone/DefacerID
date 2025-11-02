@@ -1,5 +1,10 @@
-# DefacerID
-Automate bulk submissions to the Defacer API
+# 0x6ick — Web
+
+Converted from CLI project: github.com/defacerID
+
+**Status:** Web-based port (main branch)
+
+**Contact:** t.me/yungx6ick
 
 ## Project Structure
 
@@ -17,7 +22,7 @@ pip install requests
 
 ### PHP Version
 
-- **PHP:** Ensure PHP is installed on your system. This script is compatible with PHP 7.x and PHP 8.x.
+- **PHP:** here
 - **cURL Extension:** The cURL PHP extension must be enabled for HTTP requests.
 
 ## Installation
@@ -38,9 +43,7 @@ chmod +x defacerid.py
 ## PHP Usage
 
 ```bash
-cd php
-chmod +x defacerid.php
-./defacerid.php urls.txt
+as usual, the same as him and the others
 
 ```
 
